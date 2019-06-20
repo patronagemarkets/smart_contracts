@@ -29,6 +29,6 @@
     "truffle-security": "^1.5.1"
   },
   "devDependencies": {
-    "eth-gas-reporter": "^0.2.0"
+    "eth-gas-reporter": "^0.2.1"
   }
 }
